@@ -29,5 +29,3 @@ if rhythm(sing_1):
 else:
     print('Пам парам')
 
-
-# calk1 = lambda a,b: a+b
